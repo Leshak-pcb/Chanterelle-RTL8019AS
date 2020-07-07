@@ -1,2 +1,2 @@
 # Chanterelle-RTL8019AS
-Realtek RTL8019AS 8-bit ISA ethernet card.
+Warning! Not tested yet, may contain critical errors. Realtek RTL8019AS 8-bit ISA ethernet card.
