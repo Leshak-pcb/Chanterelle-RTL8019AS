@@ -1,11 +1,4 @@
-18544246757807006
-20f001n
-20f001n-20F001N
-
-
-0
-12
-12
+18545017211145053
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -81655,6 +81648,20 @@ varistor SIOV
 2
 2
 owl
+Keystone_9202
+
+
+0
+2
+2
+owl
+isa-8
+
+
+0
+62
+62
+owl
 owl
 
 
@@ -81682,10 +81689,3 @@ owl-20mm-mask-base
 0
 0
 0
-rtl8019as
-rtl8019as-RTL8019AS
-
-
-0
-100
-100
